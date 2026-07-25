@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Outbound Intelligence — Thought Process</title>
+<style>
+  body { font-family: -apple-system, Segoe UI, Roboto, sans-serif; background:#0f1117; color:#e6e6e6; margin:0; padding:40px; }
+  h1 { text-align:center; font-weight:600; }
+  .sub { text-align:center; color:#9aa0a6; margin-bottom:40px; }
+  .flow { display:flex; flex-wrap:wrap; justify-content:center; gap:24px; align-items:stretch; }
+  .stage { background:#1b1f2a; border:1px solid #2c3242; border-radius:14px; padding:20px; width:230px; }
+  .stage h2 { font-size:15px; color:#7dd3fc; margin:0 0 8px; }
+  .stage p { font-size:13px; color:#c7cbd1; line-height:1.5; margin:4px 0; }
+  .arrow { align-self:center; font-size:28px; color:#556; }
+  .rule { max-width:900px; margin:50px auto 0; background:#161a24; border:1px dashed #3a4155; border-radius:12px; padding:20px 26px; }
+  .rule h3 { color:#fca5a5; margin-top:0; font-size:15px; }
+  .rule li { font-size:13px; color:#d8dbe0; margin-bottom:6px; }
+  .brief { max-width:900px; margin:24px auto 0; background:#111827; border-radius:12px; padding:18px 26px; font-size:13px; color:#a5b4c3;}
+</style>
+</head>
+<body>
+  <h1>Outbound Account &amp; Contact Generation — Agent Design</h1>
+  <p class="sub">Campaign brief (vertical + reference account) → 4 sequential grounded stages → personalized outreach</p>
+
+  <div class="flow">
+    <div class="stage">
+      <h2>INPUT</h2>
+      <p>Campaign brief: target vertical + one reference account.</p>
+      <p>e.g. vertical = "warehouse robotics", reference = "FlytBase"</p>
+    </div>
+    <div class="arrow">→</div>
+    <div class="stage">
+      <h2>Stage 1 · ICP Accounts</h2>
+      <p>Tavily search: competitors / similar companies in the vertical.</p>
+      <p>LLM synthesizes 3–5 candidates grounded only in returned snippets.</p>
+      <p>Each account carries a <b>source_url</b> and a similarity reason.</p>
+    </div>
+    <div class="arrow">→</div>
+    <div class="stage">
+      <h2>Stage 2 · Contacts</h2>
+      <p>Per account: search leadership / LinkedIn mentions.</p>
+      <p>LLM extracts real names + titles with an <b>evidence</b> snippet — empty list if none found.</p>
+    </div>
+    <div class="arrow">→</div>
+    <div class="stage">
+      <h2>Stage 3 · Research</h2>
+      <p>Per account: search recent news, hiring signals, business context.</p>
+      <p>Outputs a grounded brief: news, pain-point signal, context, sources.</p>
+    </div>
+    <div class="arrow">→</div>
+    <div class="stage">
+      <h2>Stage 4 · Outreach</h2>
+      <p>LLM writes one email per contact using only Stage 3's brief.</p>
+      <p>No templating, no placeholders — one concrete detail per email, soft CTA.</p>
+    </div>
+  </div>
+
+  <div class="rule">
+    <h3>Guardrails baked into every stage (not bolted on after)</h3>
+    <ul>
+      <li>Grounding first, generation second — search runs before the LLM is ever called; the model only sees real snippets, never asked to "recall" facts.</li>
+      <li>Every prompt instructs: if a fact isn't in the search context, output the literal string <code>NOT_FOUND</code> — never invent a name, title, or number.</li>
+      <li>Stage 2 can legitimately return zero contacts. That's treated as a valid, honest outcome, not an error to paper over.</li>
+      <li>Emails are grounded strictly in Stage 3's brief, so a hallucinated detail can't sneak in two stages downstream.</li>
+    </ul>
+  </div>
+
+  <div class="brief">
+    <b>Why this structure:</b> the four stages mirror how a human BDR actually works —
+    figure out who looks like the reference account, find the humans inside them,
+    understand what's happening at the company right now, then write one email that
+    proves you actually looked. Splitting search from generation (rather than relying
+    on a single model call) keeps every claim traceable back to a real URL, which is
+    what the "do not fabricate" requirement in the brief demands.
+  </div>
+</body>
+</html>
