@@ -35,10 +35,10 @@ def main():
         max_accounts=3, max_contacts_per_account=2,
     )
 
-    with open("outbound_report.json", "w") as f:
+    with open("outbound_report.json", "w", encoding="utf-8") as f:
         json.dump(report, f, indent=2)
 
-    with open("emails.md", "w") as f:
+    with open("emails.md", "w", encoding="utf-8") as f:
         f.write(f"# Outreach emails -- {VERTICAL} campaign (ref: {REFERENCE_ACCOUNT})\n\n")
         for acc in report["accounts"]:
             name = acc["account_meta"].get("name", "NOT_FOUND")
