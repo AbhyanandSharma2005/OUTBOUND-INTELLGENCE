@@ -6,22 +6,20 @@
     {
       "account_meta": {
         "name": "Locus Robotics",
-        "why_similar": "Develops autonomous mobile robots for warehouse automation, offering similar autonomous solutions for inventory handling as FlytBase's drone technology.",
+        "why_similar": "Develops autonomous mobile robots for warehouse automation, similar to FlytBase's autonomous drone solutions for inventory management.",
         "estimated_size": "NOT_FOUND",
         "source_url": "https://www.skyquestt.com/report/warehouse-robotics-market/companies"
       },
       "research": {
         "account": "Locus Robotics",
-        "recent_news": "Locus Robotics acquired Nexera Robotics on May 19, 2026, integrating Nexera\u2019s NeuraGrasp grasping technology into its physical AI platforms to expand mobile manipulation capabilities.",
-        "pain_point_signal": "The company highlights hiring and labor turnover challenges in its blog and has posted a Customer Success Manager, Warehouse Automation APAC role, indicating a need for talent and regional expansion to support growth.",
-        "business_context": "Developer of autonomous mobile robots (AMRs) that collaborate with warehouse workers to improve picking, putaway, and overall fulfillment efficiency.",
+        "recent_news": "Locus Robotics acquired Nexera Robotics, integrating Nexera\u2019s NeuraGrasp grasping technology into Locus\u2019 physical AI platforms to expand mobile manipulation (May 19, 2026).",
+        "pain_point_signal": "Locus notes labor challenges such as hiring and turnover, indicating difficulty scaling workforce and a need for robots to maintain productivity.",
+        "business_context": "Locus Robotics provides autonomous mobile robots and AI-powered warehouse automation, offering services like directed picking, putaway, and mezzanine management for retailers, 3PLs, healthcare, and industrial sectors.",
         "source_urls": [
           "https://www.robotics247.com/topic/tag/Locus_Robotics",
-          "https://locusrobotics.com/blog/news-type/in-the-news",
-          "https://locusrobotics.com/blog/news-type/press-release",
-          "https://locusrobotics.com/news",
-          "https://www.globaldata.com/company-profile/locus-robotics-inc",
-          "https://locusrobotics.com/company/careers/job-openings"
+          "https://locusrobotics.com/company/careers/job-openings",
+          "https://locusrobotics.com/blog/overcome-peak-season-challenges-with-robots",
+          "https://www.globaldata.com/company-profile/locus-robotics-inc"
         ]
       },
       "contacts_and_emails": [
@@ -34,21 +32,21 @@
           },
           "email": {
             "to": "Rick Faulk",
-            "subject": "Drone\u2011in\u2011a\u2011box to support Locus\u2019s new mobile manipulation",
-            "body": "Hi Rick,\n\nCongrats on the recent acquisition of Nexera Robotics and the integration of NeuraGrasp technology into Locus\u2019s AMRs. I noticed your blog highlights hiring and labor turnover challenges, especially as you expand talent in APAC. Our autonomous drone\u2011in\u2011a\u2011box solution provides continuous inspection and monitoring of warehouse environments, freeing staff from routine checks and supporting your mobile robots with real\u2011time data. It could help reduce the operational load on your growing workforce while enhancing safety. Would you be open to a brief 15\u2011minute call next week to explore how this fits with your expansion plans?\n\nBest regards,"
+            "subject": "Enhancing Locus Robotics\u2019 Mobile Manipulation with Aerial Insight",
+            "body": "Hi Rick,\n\nCongrats on the recent acquisition of Nexera Robotics and the integration of NeuraGrasp technology \u2013 it\u2019s exciting to see Locus expanding mobile manipulation capabilities. As you tackle labor hiring and turnover challenges, adding an autonomous drone\u2011in\u2011a\u2011box platform could give your warehouses an extra set of eyes, handling high\u2011reach inspections and monitoring without extra staff. Our solution operates safely indoors, delivers real\u2011time visual data, and integrates with existing warehouse management systems, helping maintain productivity during peak seasons. Would a brief 15\u2011minute call next week be worth exploring how this could complement Locus\u2019s robot fleet?\n\nRegards,"
           }
         },
         {
           "contact": {
             "name": "Mike Johnson",
-            "title": "President & COO",
+            "title": "President & Chief Operating Officer",
             "source_url": "https://locusrobotics.com/company/leadership",
-            "evidence": "### Mike Johnson\n\nPresident & Chief Operating Officer"
+            "evidence": "Mike Johnson\nPresident & Chief Operating Officer"
           },
           "email": {
             "to": "Mike Johnson",
-            "subject": "Congrats on Nexera acquisition \u2013 quick idea for warehouse monitoring",
-            "body": "Hi Mike,\n\nCongratulations on Locus Robotics' recent acquisition of Nexera Robotics and the integration of NeuraGrasp technology\u2014exciting step toward expanding mobile manipulation capabilities. As you scale your AMR fleet, ensuring reliable infrastructure monitoring becomes critical, especially with the hiring and labor turnover challenges you highlighted in your blog. Our autonomous drone-in-a-box platform provides continuous inspection of warehouse ceilings, racking and equipment, delivering real-time analytics without adding to your staffing load. It complements your AMRs by spotting issues before they affect picking efficiency.\n\nWould you be open to a brief 15\u2011minute call next week to explore how this could fit into your expansion plans?"
+            "subject": "Exploring aerial inspection to boost Locus Robotics\u2019 productivity",
+            "body": "Hi Mike,\n\nI saw Locus Robotics\u2019 recent acquisition of Nexera Robotics and the integration of NeuraGrasp technology into your physical AI platforms. Congratulations on expanding mobile manipulation capabilities\u2014an exciting step for warehouse automation. As you address labor hiring and turnover challenges, adding an autonomous drone-in-a-box system could give you aerial inspection and real-time monitoring without additional headcount, complementing your ground robots and helping maintain productivity during peak seasons. Would you be open to a brief 15-minute call next week to explore how this could fit into Locus\u2019s roadmap?\n\nBest,\n[Your Name]"
           }
         }
       ]
@@ -56,46 +54,46 @@
     {
       "account_meta": {
         "name": "Daifuku",
-        "why_similar": "Global leader in material handling and warehouse automation systems, providing robotic solutions comparable to FlytBase's autonomous drone applications.",
+        "why_similar": "A global leader in material handling and warehouse automation systems, operating in the same vertical as FlytBase's warehouse robotics offerings.",
         "estimated_size": "NOT_FOUND",
         "source_url": "https://www.skyquestt.com/report/warehouse-robotics-market/companies"
       },
       "research": {
         "account": "Daifuku",
-        "recent_news": "Daifuku completed construction of a new factory building for transport and storage systems for semiconductor production lines at Shiga Works on April 3, 2026, increasing domestic cleanroom business capacity by 30%.",
-        "pain_point_signal": "Daifuku is expanding its Hobart, Indiana facility with a 300,000\u2011sq\u2011ft warehouse and additional HR space to boost production capacity, indicating a need to scale manufacturing operations and workforce to meet rising demand for automation.",
-        "business_context": "Daifuku designs, manufactures, installs, and services material\u2011handling equipment and cleanroom systems for industries such as semiconductors, flat\u2011panel displays, automotive, and logistics.",
+        "recent_news": "Daifuku completed construction of a new factory building for cleanroom systems for semiconductor production lines at Shiga Works on April 3, 2026, increasing domestic cleanroom capacity by 30%.",
+        "pain_point_signal": "Daifuku notes that expanding globally is challenging because many employees lack experience outside Japan, making it difficult to replicate successful logistics solutions in new markets.",
+        "business_context": "Daifuku designs, manufactures, installs and services material\u2011handling and automation equipment, including cleanroom transport/storage systems for semiconductors and other logistics solutions.",
         "source_urls": [
           "https://www.daifuku.com/company/news/2026/0403_01",
-          "https://www.daifukuia.com/news/daifuku-intralogistics-america-expanding-in-hobart-indiana",
+          "https://www.daifuku.com/ir/assets/25_full_e.pdf",
           "https://www.globaldata.com/company-profile/daifuku-co-ltd"
         ]
       },
       "contacts_and_emails": [
         {
           "contact": {
-            "name": "Takuya Gondoh",
-            "title": "Chief Technology Officer",
-            "source_url": "https://www.daifuku.com/daifuku-square/article/001747",
-            "evidence": "Daifuku growth has come from our ability to listen to customer needs, develop R&D strategies within each business segment to address those needs, and then deliver solutions to customers. Over time, each of our businesses has accumulated a trove of specialized technology, knowledge, and skills. [...] Artificial intelligence and other technological advancements are transforming material handling systems and driving growth in logistics and manufacturing."
+            "name": "Tomoaki Terai",
+            "title": "President and CEO/COO",
+            "source_url": "https://www.daifuku.com/company/news/2026/0327_01",
+            "evidence": "President and CEO/COO | Tomoaki Terai |"
           },
           "email": {
-            "to": "Takuya Gondoh",
-            "subject": "Supporting Daifuku\u2019s Hobart expansion with autonomous inspection",
-            "body": "Hi Takuya,\n\nI saw Daifuku\u2019s recent expansion of the Hobart, Indiana facility with a 300,000\u2011sq\u2011ft warehouse and additional HR space. As you scale production and workforce, maintaining safety and equipment uptime becomes critical. Our autonomous drone\u2011in\u2011a\u2011box platform provides continuous visual inspection of large warehouse floors and cleanroom environments without manual effort, instantly flagging obstacles, spills or equipment wear. It integrates with existing safety systems and can be deployed in both the new Hobart warehouse and your Shiga Works cleanroom lines. Would a brief 15\u2011minute call next week be useful to explore how it could support your expansion goals?\n\nBest regards,"
+            "to": "Tomoaki Terai",
+            "subject": "Congrats on Shiga Works expansion \u2013 quick idea for global rollout",
+            "body": "Hi Tomoaki,\n\nCongratulations on completing the new cleanroom systems factory at Shiga Works on April 3 2026 \u2013 a 30% boost to domestic capacity is impressive. I noticed Daifuku\u2019s goal to expand globally, yet the limited overseas experience among staff can make replicating your logistics solutions tough. Our autonomous drone\u2011in\u2011a\u2011box platform provides hands\u2011free inspection and real\u2011time monitoring of large industrial sites, helping teams quickly validate equipment performance without extensive travel or training. It could streamline your expansion by giving remote visibility into new facilities. Would a brief 15\u2011minute call next week work to explore this?"
           }
         },
         {
           "contact": {
-            "name": "Tomoaki Terai",
-            "title": "President and CEO",
-            "source_url": "https://www.daifuku.com/company/summary",
-            "evidence": "Representative | Tomoaki Terai, President and CEO"
+            "name": "Takuya Gondoh",
+            "title": "Chief Technology Officer",
+            "source_url": "https://www.daifuku.com/company/news/2026/0327_01",
+            "evidence": "Senior Managing Officer | Takuya Gondoh | Chief Technology Officer Business Innovation Division Manager"
           },
           "email": {
-            "to": "Tomoaki Terai",
-            "subject": "Boosting safety at Daifuku\u2019s new Hobart warehouse",
-            "body": "Hi Tomoaki,\n\nCongratulations on the recent expansion of Daifuku\u2019s Hobart, Indiana site with a 300,000\u2011sq\u2011ft warehouse and additional HR space. As you scale production capacity, continuous inspection of the large floor area and cleanroom environments becomes critical for safety and efficiency. Our autonomous drone\u2011in\u2011a\u2011box platform provides hands\u2011free, high\u2011resolution visual monitoring and predictive maintenance alerts without disrupting operations. It can quickly scan aisles, detect obstacles, and verify environmental controls, helping you protect the new facility while keeping labor costs low. Would you be open to a brief 15\u2011minute call next week to explore how it could fit into your rollout?\n\nRegards,"
+            "to": "Takuya Gondoh",
+            "subject": "Congrats on Shiga Works cleanroom expansion",
+            "body": "Hi Takuya,\n\nI saw Daifuku\u2019s recent completion of the new cleanroom systems factory at Shiga Works on April\u202f3\u202f2026 and the 30\u202f% boost in domestic capacity \u2013 impressive work. As you look to replicate that success internationally, I understand the challenge of limited overseas experience among staff. Our autonomous drone\u2011in\u2011a\u2011box platform can give your teams real\u2011time visual insights of new sites without needing extensive on\u2011ground expertise, helping accelerate global roll\u2011outs while keeping safety and quality high. The system can operate safely in cleanroom environments, complementing your transport and storage solutions. Would a brief 15\u2011minute call next week be worth exploring?\n\nBest,\n[Your Name]"
           }
         }
       ]
@@ -103,17 +101,16 @@
     {
       "account_meta": {
         "name": "Symbotic",
-        "why_similar": "Offers AI\u2011based warehouse automation that combines robotics and machine learning, aligning with FlytBase's autonomous drone approach for warehouse operations.",
+        "why_similar": "Provides AI\u2011based warehouse automation solutions that combine robotics and machine learning, aligning with FlytBase's focus on autonomous technology for warehouses.",
         "estimated_size": "NOT_FOUND",
         "source_url": "https://www.skyquestt.com/report/warehouse-robotics-market/companies"
       },
       "research": {
         "account": "Symbotic",
-        "recent_news": "On May 6, 2026 Symbotic reported Q2 FY2026 revenue of $676 million (up 23% YoY) and a net income of $9 million, with cash and cash equivalents of $2.0\u202fbillion at quarter end.",
-        "pain_point_signal": "The company faces skilled\u2011labor constraints, as installing large\u2011scale systems requires scarce engineers and technicians, leading to hiring and training bottlenecks that can delay rollouts and increase labor costs.",
-        "business_context": "Symbotic is an automation technology leader that reimagines the supply chain with an end\u2011to\u2011end, AI\u2011powered robotic and software platform, reinventing warehouses for major retail, wholesale, and food & beverage customers.",
+        "recent_news": "Symbotic reported Q2 fiscal year 2026 revenue of $676 million, up 23% year-over-year, and net income of $9 million (May 6, 2026).",
+        "pain_point_signal": "Skilled labor constraints \u2013 hiring and training bottlenecks for engineers and technicians may delay system rollouts and increase labor costs.",
+        "business_context": "Symbotic is an automation technology leader that provides an AI\u2011powered robotic and software platform to reimagine warehouses for large retail, wholesale, and food & beverage companies.",
         "source_urls": [
-          "https://www.stocktitan.net/news/SYM/symbotic-reports-second-quarter-fiscal-year-2026-uc7ef87gezqw.html",
           "https://ir.symbotic.com/news-releases/news-release-details/symbotic-reports-second-quarter-fiscal-year-2026-results",
           "https://businessmodelcanvastemplate.com/blogs/growth-strategy/symbotic-growth-strategy",
           "https://www.linkedin.com/company/symbotic"
@@ -125,25 +122,25 @@
             "name": "Rick Cohen",
             "title": "Chairman of the Board and Chief Executive Officer",
             "source_url": "https://www.linkedin.com/posts/rick-cohen-symbotic_symbotic-names-dr-james-kuffner-as-chief-activity-7282146660162453505-t4d4",
-            "evidence": "\u201cJames has more than 30 years of leadership experience in robotics. He has helped forge groundbreaking technological advances at Toyota, Google and Carnegie Mellon University\u2019s Robotics Institute,\u201d said Rick Cohen, Chairman of the Board and Chief Executive Officer."
+            "evidence": "said Rick Cohen, Chairman of the Board and Chief Executive Officer."
           },
           "email": {
             "to": "Rick Cohen",
-            "subject": "Helping Symbotic tackle skilled\u2011labor constraints with autonomous inspections",
-            "body": "Hi Rick,\n\nCongratulations on Symbotic\u2019s strong Q2 FY2026 results \u2013 $676\u202fmillion in revenue and a 23% YoY increase is impressive. I\u2019ve noticed the skilled\u2011labor constraints you\u2019re facing when scaling large\u2011scale robotic systems. Our autonomous drone\u2011in\u2011a\u2011box platform can continuously inspect and monitor warehouse equipment without needing additional engineers on site, helping you keep rollout timelines on track while reducing labor overhead. It integrates with existing AI\u2011powered software to provide real\u2011time insights. Would a brief 15\u2011minute call next week be useful to explore how this could support Symbotic\u2019s expansion?\n\nBest regards,\n[Your Name]"
+            "subject": "Congrats on Q2 growth \u2013 quick idea for warehouse inspections",
+            "body": "Hi Rick,\n\nCongratulations on Symbotic\u2019s impressive Q2 FY2026 results \u2013 $676\u202fmillion in revenue and a 23% year\u2011over\u2011year increase is a strong signal of market traction. I noticed you highlighted skilled\u2011labor constraints as a challenge for engineers and technicians. Our autonomous drone\u2011in\u2011a\u2011box platform can continuously inspect and monitor warehouse equipment without adding headcount, giving your team real\u2011time data while freeing engineers to focus on higher\u2011value work. It integrates with existing AI\u2011driven warehouse systems and requires minimal training. Would you be open to a brief 15\u2011minute call next week to explore how this could complement Symbotic\u2019s automation roadmap?\n\nBest regards,"
           }
         },
         {
           "contact": {
-            "name": "James Kuffner",
-            "title": "Chief Technology Officer",
-            "source_url": "https://src.stanford.edu/src-events/bot4nbr3a8ykux3lkkyvea47c9dmt0-3r4ac-jymyn-yef4t-34mft-2m575-r7k3h-6lyd5-9wygr-5rsgw-9g76d",
-            "evidence": "James Kuffner is the Chief Technology Officer at Symbotic."
+            "name": "Izzy Martins",
+            "title": "Chief Financial Officer",
+            "source_url": "https://koalagains.com/stocks/NASDAQ/SYM/management-team",
+            "evidence": "Izzy Martins joined as Chief Financial Officer, succeeding Carol Hibbard."
           },
           "email": {
-            "to": "James Kuffner",
-            "subject": "Reducing skilled\u2011labor bottlenecks at Symbotic with autonomous drone inspections",
-            "body": "Hi James,\n\nCongrats on Symbotic\u2019s strong Q2 FY2026 results \u2013 $676\u202fmillion revenue and a solid cash position. I noticed the skilled\u2011labor constraints you\u2019re facing when scaling large\u2011scale systems. Our autonomous drone\u2011in\u2011a\u2011box platform provides continuous, hands\u2011free inspection of warehouse robotics and infrastructure, reducing the need for scarce engineers on site and speeding up rollout timelines. It integrates with existing AI\u2011powered workflows, giving your team real\u2011time data without adding to hiring pressures. The drones operate fully autonomously inside your AI\u2011driven warehouses, delivering high\u2011resolution visual and thermal data for predictive maintenance. Would a brief 15\u2011minute call next week to explore a pilot be worthwhile?\n\nBest,\n[Your Name]"
+            "to": "Izzy Martins",
+            "subject": "Congrats on Q2 growth \u2013 a quick idea for Symbotic",
+            "body": "Hi Izzy,\n\nCongratulations on Symbotic\u2019s Q2 fiscal 2026 results \u2013 $676\u202fmillion in revenue, up 23% YoY, and a solid $9\u202fmillion net income. As CFO, you\u2019re likely balancing that growth with the skilled\u2011labor constraints the company has flagged, especially around hiring and training engineers and technicians for new system rollouts. Our autonomous drone\u2011in\u2011a\u2011box platform can continuously inspect warehouse equipment without adding headcount, delivering AI\u2011driven insights that reduce manual checks and help keep labor costs in line. Would a brief 15\u2011minute call next week be worth exploring how this could support your rollout schedule?\n\nBest,"
           }
         }
       ]
